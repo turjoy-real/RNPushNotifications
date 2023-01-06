@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43424778756",
+    "project_id": "animekey-39e17",
+    "storage_bucket": "animekey-39e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43424778756:android:e5854ce1536b6460b58351",
+        "android_client_info": {
+          "package_name": "com.rnpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43424778756-or3rd31h8a4b2bed4vqqmep4fr0ho4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00xUt7KhFIeO7bs9YJLXup3VmCG7foZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43424778756-or3rd31h8a4b2bed4vqqmep4fr0ho4sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
